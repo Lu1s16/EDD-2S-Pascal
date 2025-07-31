@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525897257"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\Luis\Documents\Cursos\Auxiliatura\Pascal\ListaSimpleClase\lib\x86_64-win64 -FuC:\Users\Luis\Documents\Cursos\Auxiliatura\Pascal\ListaSimpleClase\ -FUC:\Users\Luis\Documents\Cursos\Auxiliatura\Pascal\ListaSimpleClase\lib\x86_64-win64\ -FEC:\Users\Luis\Documents\Cursos\Auxiliatura\Pascal\ListaSimpleClase\ -oC:\Users\Luis\Documents\Cursos\Auxiliatura\Pascal\ListaSimpleClase\listasimple.exe listasimple.lpr"/>
+</CONFIG>
