@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="cola.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="120"/>
+        <CursorPos X="14" Y="131"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="cola.lpr"/>
+        <Caret Line="174" Column="3" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="cola.lpr"/>
+        <Caret Line="104" Column="45" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="cola.lpr"/>
+        <Caret Line="106" Column="9" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="cola.lpr"/>
+        <Caret Line="113" Column="13" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="cola.lpr"/>
+        <Caret Line="128" Column="8" TopLine="116"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

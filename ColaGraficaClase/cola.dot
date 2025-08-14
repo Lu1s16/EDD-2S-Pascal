@@ -1,0 +1,15 @@
+digraph G {
+  rankdir=RL;
+  subgraph cluster_cola {
+    label = "Cola";
+    labelloc = "t";
+    style = rounded;
+    color = black;
+    node [shape=record];
+    node0 [label="<data> 5"];
+    node0 -> node1;
+    node1 [label="<data> 10"];
+    node1 -> node2;
+    node2 [label="<data> 15"];
+  }
+}
