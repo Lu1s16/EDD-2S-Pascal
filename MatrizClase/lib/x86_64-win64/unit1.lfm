@@ -1,0 +1,74 @@
+object Form1: TForm1
+  Left = 881
+  Height = 329
+  Top = 296
+  Width = 304
+  Caption = 'Form1'
+  ClientHeight = 329
+  ClientWidth = 304
+  LCLVersion = '4.2.0.0'
+  OnCreate = FormCreate
+  object Label1: TLabel
+    Left = 72
+    Height = 15
+    Top = 49
+    Width = 46
+    Caption = 'CampoX'
+  end
+  object CampoX: TEdit
+    Left = 152
+    Height = 23
+    Top = 41
+    Width = 80
+    TabOrder = 0
+    Text = 'CampoX'
+  end
+  object Label2: TLabel
+    Left = 72
+    Height = 15
+    Top = 97
+    Width = 46
+    Caption = 'CampoY'
+  end
+  object Label3: TLabel
+    Left = 72
+    Height = 15
+    Top = 142
+    Width = 59
+    Caption = 'Valor Celda'
+  end
+  object CampoY: TEdit
+    Left = 152
+    Height = 23
+    Top = 89
+    Width = 80
+    TabOrder = 1
+    Text = 'CampoY'
+  end
+  object ValorCelda: TEdit
+    Left = 152
+    Height = 23
+    Top = 134
+    Width = 80
+    TabOrder = 2
+    Text = 'ValorCelda'
+  end
+  object AgregarButton: TButton
+    Left = 112
+    Height = 25
+    Top = 192
+    Width = 75
+    Caption = 'Agregar'
+    TabOrder = 3
+    OnClick = AgregarButtonClick
+  end
+  object GraficarButton: TButton
+    Left = 112
+    Height = 25
+    Top = 248
+    Width = 75
+    Caption = 'Graficar'
+    TabOrder = 4
+    OnClick = GraficarButtonClick
+  end
+end

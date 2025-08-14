@@ -1,0 +1,50 @@
+digraph Bitacora {
+  graph [splines=ortho];
+  rankdir=TB;
+  node [shape=record, style=filled, fillcolor=white];
+  label = "Matriz Dispersa (Bitácora)";
+  nodeRoot [label="ROOT", shape=plaintext, fillcolor=yellow];
+  { rank=same; nodeRoot; colHeader_Carlos; colHeader_Luis; colHeader_felipe; }
+  colHeader_Carlos [label="Carlos", shape=plaintext, fillcolor=lightblue];
+  colHeader_Luis [label="Luis", shape=plaintext, fillcolor=lightblue];
+  colHeader_felipe [label="felipe", shape=plaintext, fillcolor=lightblue];
+  rowHeader_Diaz [label="Diaz", shape=plaintext, fillcolor=lightgreen];
+  rowHeader_Diego [label="Diego", shape=plaintext, fillcolor=lightgreen];
+  rowHeader_Enrique [label="Enrique", shape=plaintext, fillcolor=lightgreen];
+  nodeRoot -> colHeader_Carlos [color=black];
+  colHeader_Carlos -> nodeRoot [color=black];
+  nodeRoot -> rowHeader_Diaz [color=black];
+  rowHeader_Diaz -> nodeRoot [color=black];
+  colHeader_Carlos -> colHeader_Luis [color=black];
+  colHeader_Luis -> colHeader_Carlos [color=black];
+  colHeader_Luis -> colHeader_felipe [color=black];
+  colHeader_felipe -> colHeader_Luis [color=black];
+  rowHeader_Diaz -> rowHeader_Diego [color=black];
+  rowHeader_Diego -> rowHeader_Diaz [color=black];
+  rowHeader_Diego -> rowHeader_Enrique [color=black];
+  rowHeader_Enrique -> rowHeader_Diego [color=black];
+  { rank=same; rowHeader_Diaz; f_Diaz_c_Carlos }
+  f_Diaz_c_Carlos [label="10"];
+  rowHeader_Diaz -> f_Diaz_c_Carlos [color=black];
+  f_Diaz_c_Carlos -> rowHeader_Diaz [color=black];
+  colHeader_Carlos -> f_Diaz_c_Carlos [color=black];
+  f_Diaz_c_Carlos -> colHeader_Carlos [color=black];
+  { rank=same; rowHeader_Diego; f_Diego_c_felipe }
+  f_Diego_c_felipe [label="8"];
+  rowHeader_Diego -> f_Diego_c_felipe [color=black];
+  f_Diego_c_felipe -> rowHeader_Diego [color=black];
+  colHeader_felipe -> f_Diego_c_felipe [color=black];
+  f_Diego_c_felipe -> colHeader_felipe [color=black];
+  { rank=same; rowHeader_Enrique; f_Enrique_c_Luis }
+  f_Enrique_c_Luis [label="5"];
+  rowHeader_Enrique -> f_Enrique_c_Luis [color=black];
+  f_Enrique_c_Luis -> rowHeader_Enrique [color=black];
+  colHeader_Luis -> f_Enrique_c_Luis [color=black];
+  f_Enrique_c_Luis -> colHeader_Luis [color=black];
+  { rank=same; rowHeader_Enrique; f_Enrique_c_felipe }
+  f_Enrique_c_felipe [label="6"];
+  f_Enrique_c_Luis -> f_Enrique_c_felipe [color=black];
+  f_Enrique_c_felipe -> f_Enrique_c_Luis [color=black];
+  colHeader_felipe -> f_Enrique_c_felipe [color=black];
+  f_Enrique_c_felipe -> colHeader_felipe [color=black];
+}
