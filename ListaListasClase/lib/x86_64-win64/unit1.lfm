@@ -1,0 +1,88 @@
+object Form1: TForm1
+  Left = 1032
+  Height = 459
+  Top = 224
+  Width = 505
+  Caption = 'Form1'
+  ClientHeight = 459
+  ClientWidth = 505
+  LCLVersion = '4.2.0.0'
+  OnClose = FormClose
+  OnCreate = FormCreate
+  object Label1: TLabel
+    Left = 96
+    Height = 15
+    Top = 40
+    Width = 51
+    Caption = 'Categoria'
+  end
+  object Label2: TLabel
+    Left = 88
+    Height = 15
+    Top = 152
+    Width = 41
+    Caption = 'Pelicula'
+  end
+  object ButtonAgregarCategoria: TButton
+    Left = 181
+    Height = 33
+    Top = 88
+    Width = 115
+    Caption = 'Agregar Categoria'
+    TabOrder = 0
+    OnClick = ButtonAgregarCategoriaClick
+  end
+  object ButtonAgregarPelicula: TButton
+    Left = 178
+    Height = 32
+    Top = 224
+    Width = 112
+    Caption = 'Agregar Pelicula'
+    TabOrder = 1
+    OnClick = ButtonAgregarPeliculaClick
+  end
+  object ButtonMostrarTodo: TButton
+    Left = 192
+    Height = 25
+    Top = 288
+    Width = 75
+    Caption = 'Mostrar Todo'
+    TabOrder = 2
+    OnClick = ButtonMostrarTodoClick
+  end
+  object EditCategoria: TEdit
+    Left = 200
+    Height = 23
+    Top = 40
+    Width = 82
+    TabOrder = 3
+    Text = 'EditCategoria'
+  end
+  object EditPelicula: TEdit
+    Left = 192
+    Height = 23
+    Top = 152
+    Width = 80
+    TabOrder = 4
+    Text = 'EditPelicula'
+  end
+  object Memo1: TMemo
+    Left = 160
+    Height = 90
+    Top = 328
+    Width = 150
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 5
+  end
+  object ComboBoxCategorias: TComboBox
+    Left = 178
+    Height = 23
+    Top = 184
+    Width = 132
+    ItemHeight = 15
+    TabOrder = 6
+    Text = 'ComboBoxCategorias'
+  end
+end
