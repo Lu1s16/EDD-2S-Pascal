@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="listasimple.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="179"/>
+        <CursorPos X="21" Y="190"/>
+        <FoldState Value=" T3Q052 PiDZ0~"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="179" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="223" Column="32" TopLine="208"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="163" Column="13" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="181" Column="46" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="196" Column="41" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="189" Column="42" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="listasimple.lpr"/>
+        <Caret Line="188" Column="53" TopLine="179"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
