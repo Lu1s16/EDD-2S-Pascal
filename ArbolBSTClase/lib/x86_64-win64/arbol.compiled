@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1525897257"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos\Pascal\ArbolBSTClase\lib\x86_64-win64&quot; &quot;-FuC:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos\Pascal\ArbolBSTClase\&quot; &quot;-FUC:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos\Pascal\ArbolBSTClase\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos\Pascal\ArbolBSTClase\&quot; &quot;-oC:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos\Pascal\ArbolBSTClase\arbol.exe&quot; arbol.lpr"/>
+</CONFIG>
