@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="arbolavl.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="334"/>
+        <CursorPos X="21" Y="349"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="143" Column="14" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="114" Column="41" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="122" Column="6" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="109" Column="35" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="129" Column="42" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="142" Column="79" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="37" Column="16" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="43" Column="18" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="169" Column="5" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="153" Column="14" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="157" Column="49" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="175" Column="15" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="39" Column="16" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="189" Column="7" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="240" Column="6" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="211" Column="21" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="215" Column="17" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="211" Column="21" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="199" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="55" Column="7" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="335" Column="37" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="76" Column="34" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="336" Column="3" TopLine="324"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="329" Column="3" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="108" Column="21" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="109" Column="3" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="110" Column="18" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="76" Column="7" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="332" Column="18" TopLine="328"/>
+      </Position>
+      <Position>
+        <Filename Value="arbolavl.lpr"/>
+        <Caret Line="343" Column="12" TopLine="327"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
