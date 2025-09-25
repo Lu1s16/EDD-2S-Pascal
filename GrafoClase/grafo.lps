@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="grafo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="grafos"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="165"/>
+        <CursorPos X="11" Y="184"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="41" Column="23" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="23" Column="11" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="29" Column="18" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="23" Column="11" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="42" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="22" Column="35" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="41" Column="26" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="89" Column="5" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="128" Column="117" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="138" Column="11" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="grafo.lpr"/>
+        <Caret Line="182" Column="25" TopLine="164"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
