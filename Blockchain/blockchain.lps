@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="blockchain.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="86"/>
+        <CursorPos X="16" Y="148"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit2.pas"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="142"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DCPsha256.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="22" Y="29"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DCPcrypt2.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="12"/>
+        <CursorPos X="41" Y="29"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="13" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="4" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="65" Column="5" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="4" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="unit2.pas"/>
+        <Caret TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="4" Column="62"/>
+      </Position>
+      <Position>
+        <Filename Value="DCPsha256.pas"/>
+        <Caret Line="29" Column="22" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="DCPcrypt2.pas"/>
+        <Caret Line="29" Column="41" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="51" Column="23" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="52" Column="21" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="70" Column="11" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="71" Column="54" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="4" Column="73"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="51" Column="14" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="75" Column="49" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="72" Column="31" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="81" Column="38" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="15" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="125" Column="47" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="154" Column="3" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="155" Column="21" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="154" Column="3" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="179" Column="24" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="154" Column="10" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="169" Column="12" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="182" Column="28" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="187" Column="26" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="155" Column="45" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="187" Column="62" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="blockchain.lpr"/>
+        <Caret Line="189" Column="33" TopLine="172"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
